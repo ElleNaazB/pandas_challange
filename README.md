@@ -3,11 +3,11 @@
 This project looks at two sets of data. The first set gives us detailed information about how students perform in math and reading. The second set tells us about the basic features of schools, like their type, how many students they have, and their budget. Our main goal is to combine these datasets to see if there's a connection between how well students do in school and the type of school they go to. Essentially, we're trying to find out not just how students are performing, but also if the kind of school they attend has any effect on their performance.
 
 
-<img src= "https://github.com/ElleNaazB/pandas_challange/blob/main/education.png?raw=true">
+<img src= "https://github.com/ElleNaazB/pandas_challange/blob/main/PyCitySchools/education.png">
 
 ## The Analysis  
 
-The execuded code (lineked HERE) provides a district-level summary of keymetrics from the combined <a href="https://github.com/ElleNaazB/pandas_challange/blob/main/Resources/schools_complete.csv"> school</a> and <a href="https://github.com/ElleNaazB/pandas_challange/blob/main/Resources/students_complete.csv"> students</a> data. 
+The execuded code (lineked HERE) provides a district-level summary of keymetrics from the combined <a href="https://github.com/ElleNaazB/pandas_challange/blob/main/PyCitySchools/Resources/schools_complete.csv"> school</a> and <a href="https://github.com/ElleNaazB/pandas_challange/blob/main/PyCitySchools/Resources/students_complete.csv"> students</a> data. 
 
 Here are the key findings: 
 
