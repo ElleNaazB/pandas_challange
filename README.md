@@ -7,8 +7,8 @@ This project looks at two sets of data. The first set gives us detailed informat
 
 ## The Analysis  
 
-The execuded code (<a href="https://github.com/ElleNaazB/pandas_challange/blob/main/PyCitySchools/PyCitySchools-Script.ipynb">HERE</a>) provides a district-level summary of keymetrics from the combined <a href="https://github.com/ElleNaazB/pandas_challange/blob/main/PyCitySchools/Resources/schools_complete.csv"> school</a> and <a href="https://github.com/ElleNaazB/pandas_challange/blob/main/PyCitySchools/Resources/students_complete.csv"> students</a> data. 
-https://github.com/ElleNaazB/pandas_challange/blob/main/PyCitySchools/PyCitySchools-Script.ipynb
+The execuded code (<a href="https://github.com/ElleNaazB/pandas_challange/blob/main/PyCitySchools/PyCitySchoolsScript.ipynb">HERE</a>) provides a district-level summary of keymetrics from the combined <a href="https://github.com/ElleNaazB/pandas_challange/blob/main/PyCitySchools/Resources/schools_complete.csv"> school</a> and <a href="https://github.com/ElleNaazB/pandas_challange/blob/main/PyCitySchools/Resources/students_complete.csv"> students</a> data. 
+
 Here are the key findings: 
 
 - <strong>Total Schools:</strong> There are 15 schools in the district.
